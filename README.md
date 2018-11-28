@@ -1,5 +1,7 @@
 # d3-dsv
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-dsv)](https://dev.azure.com/d3/d3/_build/definition?definitionId=14)
+
 This module provides a parser and formatter for delimiter-separated values, most commonly [comma-](https://en.wikipedia.org/wiki/Comma-separated_values) (CSV) or tab-separated values (TSV). These tabular formats are popular with spreadsheet programs such as Microsoft Excel, and are often more space-efficient than JSON. This implementation is based on [RFC 4180](http://tools.ietf.org/html/rfc4180).
 
 Comma (CSV) and tab (TSV) delimiters are built-in. For example, to parse:
